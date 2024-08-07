@@ -1,4 +1,4 @@
-# 2023 CMPUT 302 Emotional Tracking App
+# Emotional Tracking App
 
 A simple react app that allows users to track & analyze their present or historical emotional data, as well as gain additional information about how to manage negative emotions.
 
@@ -10,10 +10,6 @@ A simple react app that allows users to track & analyze their present or histori
 - Jingyi Xu - jx15@ualberta.ca
 - Jason Sommerville - jns@ualberta.ca
 
-# Original Repo
-
-The original source code for this project can be found in GitHub here: https://github.com/adamva/CMPUT302-emotion-tracker
-
 # Original Requirement
 
 This app was originally based on the medium fidelity Final Prototype V2 here: https://www.figma.com/file/VMppaKTVgFpJoraWywzHSo/302-prototypes---medium-fidelity?node-id=90-744
@@ -21,10 +17,6 @@ This app was originally based on the medium fidelity Final Prototype V2 here: ht
 However, it does not implement the proposed changes around the `graph` feature.
 
 # Usage
-
-## GitHub Pages
-
-You can visit the GitHub pages of the original repo https://adamva.github.io/CMPUT302-emotion-tracker/ & you can interact with the app.
 
 ## Build Locally
 
